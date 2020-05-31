@@ -1,6 +1,5 @@
 {
-  "streams": [
-    {
+  "streams": [{
       "title": "hello",
       "description": "hello",
       "id": 1
